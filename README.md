@@ -20,7 +20,7 @@ Requirements
 
 Installation
 Copy the enocean_stm550 folder to:
-config/custom_components/
+config/custom_components/enocean_stm550
 Resulting directory structure:
 
 config/custom_components/
