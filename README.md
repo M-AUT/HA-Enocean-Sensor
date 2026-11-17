@@ -24,18 +24,19 @@ config/custom_components/
 Resulting directory structure:
 
 config/
-└── custom_components/
-    └── enocean_stm550/
-        ├── __init__.py
-        ├── binary_sensor.py
-        ├── config_flow.py
-        ├── const.py
-        ├── decoder.py
-        ├── entity.py
-        ├── manifest.json
-        ├── sensor.py
-        ├── strings.json
-        └── translations/
+
+    └── custom_components/
+        └── enocean_stm550/
+            ├── __init__.py
+            ├── binary_sensor.py
+            ├── config_flow.py
+            ├── const.py
+            ├── decoder.py
+            ├── entity.py
+            ├── manifest.json
+            ├── sensor.py
+            ├── strings.json
+            └── translations/
 Restart Home Assistant.
 
 Go to:
@@ -68,6 +69,7 @@ Disclaimer
 This is a community project and is not affiliated with EnOcean or Home Assistant.
 
 Screenshots
+
 <img width="713" height="545" alt="image" src="https://github.com/user-attachments/assets/24fb267c-edc3-42b8-bc33-3e4c5d36c37c" />
 <img width="497" height="607" alt="image" src="https://github.com/user-attachments/assets/2278d6c5-1708-465c-b069-7006a9de8f83" />
 
