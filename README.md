@@ -23,7 +23,7 @@ Copy the enocean_stm550 folder to:
 config/custom_components/
 Resulting directory structure:
 
-config/
+config/custom_components/
 
     └── custom_components/
         └── enocean_stm550/
