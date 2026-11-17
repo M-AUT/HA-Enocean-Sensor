@@ -15,3 +15,8 @@ Status: Early release
 Tested with:
 - EnOcean STM 550B
 - Home Assistant 2026.x
+
+
+
+BLE ID of the Sensor 
+Security Key (32 Hex) can be set at the sensor via NFC in the Enocean App. Format must be e.g. 00112233445566778899AABBCCDDEEFF   
