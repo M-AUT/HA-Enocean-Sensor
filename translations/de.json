@@ -1,0 +1,7 @@
+{
+  "config": {
+    "step": {"user": {"title": "EnOcean Sensor", "data": {"name": "Name", "address": "Adresse (E5:00:10:00:14:07)", "key": "Sicherheitsschluessel (32 Hex)"}}},
+    "error": {"invalid_address": "Ungueltige Adresse", "invalid_key": "Ungueltiger Schluessel"},
+    "abort": {"already_configured": "Bereits eingerichtet"}
+  }
+}
